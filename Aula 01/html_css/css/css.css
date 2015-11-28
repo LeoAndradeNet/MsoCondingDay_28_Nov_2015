@@ -1,0 +1,23 @@
+﻿img{
+    width:130px;
+}
+
+.coluna {
+    border: 2px solid #ff0000;
+    width: 31%;
+    float: left;
+    margin: 1%;
+}
+
+#texto {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    color: #ffd800;
+}
+
+.estrutura div {
+    border: 2px solid #ff0000;
+    width: 31%;
+    float: left;
+    margin: 1%;
+}
